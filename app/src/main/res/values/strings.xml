@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingSample</string>
+    <string name="likes">like</string>
+</resources>
